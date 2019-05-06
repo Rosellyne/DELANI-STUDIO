@@ -8,6 +8,7 @@ $(document).ready(function(){
 
 function sendForm() {
     document.getElementById("myForm").style.display = "block";
-    alert("");
+    var dataName = $("#number1").val();
+    alert("Thank you " + dataName + " your message has been received");
     $('form').attr('action','new path');
 }
