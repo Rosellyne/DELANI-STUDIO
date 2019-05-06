@@ -7,7 +7,7 @@ Roselyne Moraa
 ## Project Description
 This is webpage that links the clients with the sotfware developers.It enables the developer to determine the clients's views on his/her own projects.
 
-<!-- ## Installations
+ ## Installations
 
 ## Requirements
 
@@ -24,7 +24,7 @@ This is webpage that links the clients with the sotfware developers.It enables t
 + Bootstrap
 + Markdown syntax 
 
-## Program Behaviour(BDD)
+<!-- ## Program Behaviour(BDD)
 
 
 ## Link to deployed site:
@@ -33,4 +33,4 @@ This is webpage that links the clients with the sotfware developers.It enables t
 
 ## License
 
-Copyright (c) Rosellyne 2019 This project is licensed under the MIT License - see the LICENSE.md file for details -->
+Copyright (c) Rosellyne 2019 This project is licensed under the MIT License - see the LICENSE.md file for details  -->
