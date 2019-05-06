@@ -24,11 +24,10 @@ This is webpage that links the clients with the sotfware developers.It enables t
 + Bootstrap
 + Markdown syntax 
 
- ## Program Behaviour(BDD)
-
-
 ## Link to deployed site
+
+https://rosellyne.github.io/DELANI-STUDIO/
 
 ## License
 
-Copyright (c) Rosellyne 2019 This project is licensed under the MIT License - see the LICENSE.md file for details  
+Copyright (c) Rosellyne 2019 This project is licensed under the MIT License -https://github.com/Rosellyne/DELANI-STUDIO/blob/master/LICENSE 
