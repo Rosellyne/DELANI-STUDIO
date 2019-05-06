@@ -24,10 +24,8 @@ This is webpage that links the clients with the sotfware developers.It enables t
 + Bootstrap
 + Markdown syntax 
 
- ## Program Behaviour(BDD)
-
-
 ## Link to deployed site
+
 https://rosellyne.github.io/DELANI-STUDIO/
 
 ## License
