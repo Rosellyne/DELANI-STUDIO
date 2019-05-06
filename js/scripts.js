@@ -8,6 +8,6 @@ $(document).ready(function(){
 
 function sendForm() {
     document.getElementById("myForm").style.display = "block";
-    alert("Your message has been recieved");
+    alert("");
     $('form').attr('action','new path');
 }
