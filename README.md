@@ -5,6 +5,7 @@
 Roselyne Moraa
 
 ## Project Description
+This is webpage that links the clients with the sotfware developers.It enables the developer to determine the clients's views on his/her own projects.
 
 <!-- ## Installations
 
