@@ -1,81 +1,113 @@
-.homepage{
-    background-image: url(../imgs/h_img.jpg);
-    background-size: cover;
-    background-position: center;
-    height:800px;
-  }
-   #cleaner{
-    color :white;
-  }
-    #intro{
-    margin-top: 17%;
-  }   
-  .container-about{
-    font-size: 1.5vh;
-  }.service{
-    text-align: center;
-    color:white;
-    font-size: 1.5vh;
-  }  
-  
-.service{
-    background-image: url(../imgs/s_image.jpg);
-    background-size: cover;
-    background-position: relative;
-    height: 500px;
+body{
+  overflow-x: hidden;
 }
- .strongest{
+.homepage {
+  background-image: url(../imgs/h_img.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+}
+
+#cleaner {
+  color: white;
+}
+
+#intro {
+  margin-top: 17%;
+}
+
+.container-about {
+  font-size: 2vh;
+}
+
+.service {
+  text-align: center;
+  color: white;
+  font-size: 2vh;
+}
+
+.service {
+  background-image: url(../imgs/s_image.jpg);
+  background-size: cover;
+  background-position: relative;
+  height: 500px;
+}
+
+.strongest {
   padding: 10%;
-} 
-.erase{
-  padding:5%; 
-} 
- .contact{
+}
+
+.erase {
+  padding: 5%;
+}
+.contact {
   background-image: url(../imgs/c_image.jpg);
   background-size: cover;
   background-position: center;
-  height:650px;
-  width:100%;
+  height: 650px;
+  width: 100%;
 }
-.icons{
+
+.icons {
   widows: 250px;
 }
-.hide{
+
+.hide {
   display: none;
 }
-    
-    .col-md-3 img:hover {
-    opacity: 0.4;
-    color: white;
-    }
-    .row{
-      text-align: center
-    }
-    .card{
-      width: 250px;
-    }
-#number1{
-width: 35%;
-background: transparent;
-    }
+.row {
+  text-align: center
+}
 
-    form{
-      text-align: center;
-    }
+.card {
+  position: relative;
+}
+.text{
+  position: absolute;
+  color: green;
+  background: rgba(255, 255, 255, 0.404); 
+  font-size: 3vh;
+  width:100%;
+  height: 100%;
+}
 
-    #number2{
-      height: 45vh;
-      width: 50%;
-      background:transparent;
-      margin-top: 9px;
-    }
-    .contact{
-      color:white;
-    }
-    footer{
-      text-align: center;
-    } 
+#number1 {
+  width: 35%;
+  background: transparent;
+}
+form {
+  text-align: center;
+}
+#number2 {
+  height: 45vh;
+  width: 50%;
+  background: transparent;
+  margin-top: 9px;
+}
+.contact {
+  color: white;
+}
 
-   #button{
-     background-color:blue; 
-   }
+footer {
+  text-align: center;
+}
+.form-me{ 
+  width: 650px;
+  margin-top: 12%;
+  left: 50%;
+  max-width: 100%;
+  transform: translate(-50%);
+  position: relative;
+}
+.form-me input{
+  background:transparent ;
+  width: 49%;
+}
+.form-me textarea{
+  margin-top: 10px;
+  background:transparent ;
+  width: 100%;
+}
+
+ 
+   
